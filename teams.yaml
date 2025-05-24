@@ -7,7 +7,7 @@ teams:
         role: maintainer
     repositories:
       - name: cloudbuildlab/go-s3browser
-        permission: maintainer
+        permission: maintain
   - name: devops
     description: DevOps team managing deployment pipelines and system reliability
     privacy: closed
@@ -16,4 +16,4 @@ teams:
         role: maintainer
     repositories:
       - name: cloudbuildlab/go-s3browser
-        permission: maintainer
+        permission: maintain
