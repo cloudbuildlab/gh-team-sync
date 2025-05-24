@@ -6,7 +6,7 @@ teams:
       - username: jajera
         role: maintainer
     repositories:
-      - name: cloudbuildlab/go-s3browser
+      - name: go-s3browser
         permission: maintain
   - name: devops
     description: DevOps team managing deployment pipelines and system reliability
@@ -15,5 +15,5 @@ teams:
       - username: jajera
         role: maintainer
     repositories:
-      - name: cloudbuildlab/go-s3browser
+      - name: go-s3browser
         permission: maintain
